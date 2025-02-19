@@ -1,0 +1,19 @@
+
+
+
+input {
+    font-size: 1.2rem !important;
+    padding: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    width: 100%;
+}
+
+
+
+@media (min-width: 992px) {
+    .container, .container-lg, .container-md, .container-sm {
+        max-width: 760px;
+    }
+
+}
