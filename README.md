@@ -12,7 +12,8 @@ Un'applicazione semplice per gestire le attività quotidiane, sviluppata con **R
 ## 🛠️ Tecnologie utilizzate
 
 - React.js
-- CSS (o Tailwind, Bootstrap, se usati)
+- CSS (BootstrapReact)
 - React Hooks (useState, useEffect)
+-Material-UI
 
 
