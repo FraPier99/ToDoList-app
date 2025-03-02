@@ -7,8 +7,8 @@ Un'applicazione semplice per gestire le attività quotidiane, sviluppata con **R
 ✅ Aggiungere nuove attività  
 ✅ Segnare le attività come completate  
 ✅ Modifica attività
-✅ Eliminare attività  
-✅ Filtri per attività completate/non completate7da svolgere  
+✅ Eliminare attività
+✅ Filtri per attività completate/non completate/da svolgere  
 
 ## 🛠️ Tecnologie utilizzate
 
