@@ -24,9 +24,11 @@ Un'applicazione semplice per gestire le attività quotidiane, sviluppata con **R
    git clone https://github.com/FraPier99/ToDoList-app.git  
 
 2. **Installa le dipendenze:**
+   ```bash
    npm install
 
 3. **Avvia l'applicazione:**
+   ```bash
    npm start
 
 
