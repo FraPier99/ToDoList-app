@@ -12,7 +12,7 @@ import './App.css';
 
 function App() {
 
-  const [list,setList] = useState([{text:'esempio : impare cose nuove ',completed:false}])
+  const [list,setList] = useState([{text:'esempio todo',completed:false}])
   const [filter,setFilter] = useState('All')
   const [loading,setLoading] = useState(true)
 
